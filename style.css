@@ -76,7 +76,7 @@ h1 {
 /* Icon styles */
 .navbar-logo .icon {
     width: 50px; /* Adjust the size of the GitHub icon */
-    height: auto;
+    height: 50px;
 }
 
 /* Make the navbar responsive */
